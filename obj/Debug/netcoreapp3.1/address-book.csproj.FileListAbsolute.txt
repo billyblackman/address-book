@@ -2,3 +2,12 @@ C:\Users\Billy Blackman\Documents\Workspace\address-book\obj\Debug\netcoreapp3.1
 C:\Users\Billy Blackman\Documents\Workspace\address-book\obj\Debug\netcoreapp3.1\address-book.AssemblyInfoInputs.cache
 C:\Users\Billy Blackman\Documents\Workspace\address-book\obj\Debug\netcoreapp3.1\address-book.AssemblyInfo.cs
 C:\Users\Billy Blackman\Documents\Workspace\address-book\obj\Debug\netcoreapp3.1\address-book.csproj.CoreCompileInputs.cache
+C:\Users\Billy Blackman\Documents\Workspace\address-book\bin\Debug\netcoreapp3.1\address-book.exe
+C:\Users\Billy Blackman\Documents\Workspace\address-book\bin\Debug\netcoreapp3.1\address-book.deps.json
+C:\Users\Billy Blackman\Documents\Workspace\address-book\bin\Debug\netcoreapp3.1\address-book.runtimeconfig.json
+C:\Users\Billy Blackman\Documents\Workspace\address-book\bin\Debug\netcoreapp3.1\address-book.runtimeconfig.dev.json
+C:\Users\Billy Blackman\Documents\Workspace\address-book\bin\Debug\netcoreapp3.1\address-book.dll
+C:\Users\Billy Blackman\Documents\Workspace\address-book\bin\Debug\netcoreapp3.1\address-book.pdb
+C:\Users\Billy Blackman\Documents\Workspace\address-book\obj\Debug\netcoreapp3.1\address-book.dll
+C:\Users\Billy Blackman\Documents\Workspace\address-book\obj\Debug\netcoreapp3.1\address-book.pdb
+C:\Users\Billy Blackman\Documents\Workspace\address-book\obj\Debug\netcoreapp3.1\address-book.genruntimeconfig.cache

@@ -4,11 +4,23 @@ namespace address_book
 {
     public class AddressBook
     {
-        public Dictionary<Contact, string> addresses = new Dictionary<Contact, string>();
+        public Dictionary<string, Contact> addresses = new Dictionary<string, Contact>();
 
-        public void AddContact(Contact contact, string emailAddress)
+        public void AddContact(Contact contact)
         {
-            addresses.Add(contact, emailAddress);
+            addresses[contact.Email] = contact;
+        }
+
+        public Contact GetByEmail(string email)
+        {
+            foreach(KeyValuePair <string, Contact> kvp in addresses)
+            {
+                if (kvp.Key == email)
+                {
+                    return kvp.Value;
+                }
+            }
+            return null;            
         }
     }
 }
